@@ -1,4 +1,4 @@
-# 7Sigma Full-Stack Web Application Assignment
+# 7Sigma Full-Stack Web Application Assessment
 
 ## Overview
 
