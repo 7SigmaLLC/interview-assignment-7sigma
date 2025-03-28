@@ -1,6 +1,3 @@
-
-
-
 # 7Sigma Full-Stack Web Application Assignment
 
 ## Overview
@@ -181,6 +178,6 @@ We will grade your submission primarily on architecture, code quality, security,
 
 Good Luck!
 
-This assignment is meant to simulate a real-world environment with multiple moving parts. It’s not easily solved with simple AI prompts alone — setup, debugging, and design decisions will require genuine problem-solving.  It's okay if not everything is implemented within the time allotted.  This is measured on a curve.  We do consider the state of the art LLMs at the time of this writing, and expect you to take full advantage of available AI tools.  
+This assignment is meant to simulate a real-world environment with multiple moving parts.  It’s not easily solved with simple AI prompts alone — setup, debugging, and design decisions will require genuine problem-solving.  It's okay if not everything is implemented within the time allotted.  This is measured on a curve.  We do consider the state of the art LLMs at the time of this writing, and expect you to take full advantage of available AI tools.  
 
 We look forward to seeing your approach, design, and final product.
