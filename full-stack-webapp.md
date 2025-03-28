@@ -169,9 +169,12 @@ We will grade your submission primarily on architecture, code quality, security,
 	- Demonstrate a working application.
 	- Provide a tour of the code, architecture, tradeoffs, and challenges.
 	- Link the Loom video in your README or share it privately with the reviewer.
-4.	Timeframe
-	- Aim to spend about one week on this.
-	- If you can’t complete everything, focus on a smaller scope but keep the code well structured.
+
+⸻
+
+## Timeframe
+    - Aim to spend about one week on this.
+    - If you can’t complete everything, focus on a smaller scope but keep the code well structured.
 
 ⸻
 
