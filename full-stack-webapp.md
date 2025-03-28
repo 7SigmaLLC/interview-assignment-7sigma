@@ -110,17 +110,17 @@ Optional: You may containerize or provide Docker files if you wish, but it’s n
 ### Loom Video Walkthrough (Required)
 
 1.	Run the Application Locally
-  - Show pulling secrets from Google Secret Manager.
-  - Demonstrate sign-in via Google OAuth.
-  - Upload an image; see it appear in GCS.
-  - Cloud Function processes it; front-end receives real-time “processed” event.
+    - Show pulling secrets from Google Secret Manager.
+    - Demonstrate sign-in via Google OAuth.
+    - Upload an image; see it appear in GCS.
+    - Cloud Function processes it; front-end receives real-time “processed” event.
 2.	Code and Architecture
-  - Walk through your file structure, especially how OpenAPI, tRPC, and the front-end interconnect.
-  - Show how you handle secrets, environment variables, and your in-memory store.
-  - Discuss any design tradeoffs (why OpenAPI + tRPC, how you handle real-time updates, etc.).
+    - Walk through your file structure, especially how OpenAPI, tRPC, and the front-end interconnect.
+    - Show how you handle secrets, environment variables, and your in-memory store.
+    - Discuss any design tradeoffs (why OpenAPI + tRPC, how you handle real-time updates, etc.).
 3.	Challenges & Tradeoffs
-  - Explain any particular difficulties with GCP services.
-  - Discuss how you tackled the combination of custom code, generated SDK, and tRPC.
+    - Explain any particular difficulties with GCP services.
+    - Discuss how you tackled the combination of custom code, generated SDK, and tRPC.
 
 ⸻
 
