@@ -1,4 +1,4 @@
-# 7Sigma DevOps _ Full Stack Web Application Assessment
+# 7Sigma DevOps + Full Stack Web Application Assessment
 
 ## Overview
 
