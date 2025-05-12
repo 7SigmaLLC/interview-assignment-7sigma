@@ -168,7 +168,8 @@ Please maintain regular communication throughout the test. Confirm scope, ask cl
 Timeframe
 Aim to spend about one week on this.
 If you can’t complete everything, focus on a smaller scope but keep the code well structured.
-⸻
+
+---
 
 Good Luck!
 
