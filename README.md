@@ -1,2 +1,2 @@
 # interview-assignment-7sigma
-Developer Interview Assignment
+DevOps and Developer take home Interview Assignments
